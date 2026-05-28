@@ -1,70 +1,90 @@
-<h1 align="center">Hi 👋, I'm Mayank Poonia</h1>
-<h3 align="center">ECE Undergraduate | VLSI & FPGA Enthusiast | Digital Design Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Verilog+HDL+%7C+FPGA+%7C+Digital+Design;VLSI+%26+Semiconductor+Engineering;RTL+Design+%7C+Simulation+%7C+Verification;Building+Hardware+Accelerated+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mayank%20Poonia&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=VLSI%20%7C%20FPGA%20%7C%20RTL%20Design%20Engineer&descAlignY=55&descAlign=50"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Mayank Poonia</h1>
+
+<h3 align="center">
+ECE Undergraduate @ IIIT Bhopal | FPGA • Verilog HDL • RTL Design • Semiconductor Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=RTL+Design+Engineer;FPGA+%7C+Verilog+HDL+%7C+VLSI;Semiconductor+Research+%40+DRDO;Building+Hardware-Accelerated+Systems" />
 </p>
 
 ---
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=officialpoonia1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+# 🔬 About Me
 
 - 🎓 B.Tech in Electronics & Communication Engineering at IIIT Bhopal
 - 🔬 Research Intern at DRDO – Solid State Physics Laboratory
-- ⚡ Interested in VLSI Design, FPGA Systems, RTL Design & Semiconductor Devices
+- ⚡ Passionate about FPGA Systems, RTL Design, VLSI & Semiconductor Devices
 - 🧠 Qualified GATE 2026 (ECE)
-- 🛠️ Working on InGaAs-based HEMT devices and FPGA-based systems
-- 💻 Passionate about Verilog HDL, Digital Systems and Hardware Acceleration
+- 💻 Building hardware systems using Verilog HDL and FPGA platforms
+- 🚀 Interested in Digital Design, Processor Architectures & Hardware Acceleration
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages & HDL
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,matlab" />
+## ⚙️ Languages & HDL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,matlab,linux,git,github" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Xilinx-Vivado-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ModelSim-Simulation-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FPGA-Digital_Design-orange?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Verilog-HDL-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FPGA-Digital_Design-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLSI-RTL_Design-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Xilinx-Vivado-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ModelSim-Simulation-green?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔬 Current Work
+# ⚡ Current Work
 
-- Developing automated I–V characterization systems using Keysight B2912B SMU
-- Studying InGaAs-based HEMT device physics and electrical performance
-- Building FPGA-based low-latency trading signal generators
-- Exploring RTL design, FSM architecture and hardware verification
+- Building FPGA-based trading signal generators using Verilog HDL
+- Exploring RTL verification and digital system architectures
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 📈 FPGA-Based Trading Signal Generator
-- FPGA trading engine using SMA, EMA, RSI & crossover indicators
+## 📈 FPGA-Based Trading Signal Generator
+- FPGA-based low latency trading signal engine
+- SMA, EMA, RSI and crossover indicator implementation
 - BUY/SELL/HOLD signal generation with confidence scoring
-- Verilog HDL + ModelSim verification
-
-### ⚙️ 4-Bit ALU in Verilog
-- RTL design and simulation of arithmetic & logical operations
-- Implemented using Verilog HDL on Xilinx Vivado
+- Verified using Verilog testbenches and ModelSim
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ 4-Bit ALU in Verilog
+- Designed and simulated arithmetic & logical operations
+- Implemented using Verilog HDL on Xilinx Vivado
+- Developed RTL modules and verification testbenches
+
+---
+
+# 📚 Currently Exploring
+
+- FPGA acceleration systems
+- CMOS & semiconductor devices
+- RTL verification methodologies
+- Processor datapath architectures
+- High-speed digital design
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=officialpoonia1&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
@@ -74,28 +94,27 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=officialpoonia1&theme=tokyonight&border_radius=10"/>
 </p>
-```
 
+---
 
-
-## 🔥 GitHub Streak
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=officialpoonia1&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mayank-poonia-071162290" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 <a href="mailto:pooniamayank50@gmail.com">
@@ -106,5 +125,6 @@
 ---
 
 <p align="center">
-  ⚡ “Designing the future through hardware and intelligent systems.”
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
+```
